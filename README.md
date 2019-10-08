@@ -4,7 +4,7 @@ It is built on top of [Jsoup](https://jsoup.org/).
 
 Building
 --------
-	$> gradle build
+	$> mvn clean install
 
 Running
 -------
